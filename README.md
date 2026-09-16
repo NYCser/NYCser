@@ -97,23 +97,6 @@
                     Edge / IoT Systems
 ```
 
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NYCser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=6366F1&text_color=CBD5E1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYCser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NYCser&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8" />
-
-</div>
-
-<br>
-
 <div align="center">
 
 ### Let's Connect
