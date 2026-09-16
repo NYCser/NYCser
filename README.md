@@ -43,7 +43,6 @@ that spans from bare-metal microcontrollers up to Embedded Linux gateways.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Embedded & Firmware**
 
@@ -65,17 +64,13 @@ that spans from bare-metal microcontrollers up to Embedded Linux gateways.
 ![UART](https://img.shields.io/badge/UART-6366F1?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-6366F1?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-6366F1?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN%20bus-6366F1?style=for-the-badge)
-![CoAP](https://img.shields.io/badge/CoAP-6366F1?style=for-the-badge)
 
 **Data, Cloud & Tools**
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 </div>
 
