@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Embedded+Systems+%26+IoT+Developer;C%2FC%2B%2B+%7C+STM32+%7C+ESP32+%7C+FreeRTOS;Embedded+Linux+%7C+Buildroot+%7C+MQTT;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Embedded+Systems+%26+IoT+Developer;C%2FC%2B%2B+%7C+STM32+%7C+ESP32+%7C+FreeRTOS;Embedded+Linux+%7C+%7C+MQTT;" alt="Typing SVG" />
 </a>
 
 <br>
@@ -55,7 +55,6 @@ that spans from bare-metal microcontrollers up to Embedded Linux gateways.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Buildroot](https://img.shields.io/badge/Buildroot-1F2937?style=for-the-badge&logo=linux&logoColor=38BDF8)
-![systemd](https://img.shields.io/badge/systemd-1F2937?style=for-the-badge&logo=linux&logoColor=white)
 
 **Protocols & Messaging**
 
