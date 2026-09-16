@@ -23,16 +23,15 @@
 I'm an **Embedded Systems & IoT student** at HUTECH, building firmware and software
 that spans from bare-metal microcontrollers up to Embedded Linux gateways.
 
-- 🔭 Currently building **multi-node IoT / smart-home gateway systems**
-- 🌱 Deepening my knowledge of **Embedded Linux, device drivers, and low-level system dev**
-- 💡 Focused on **Firmware Development, Embedded Linux, and IoT architecture**
-- 🛠️ Working daily with **STM32, ESP32, Raspberry Pi, and FreeRTOS**
-- 🤖 Also exploring **robotics (ROS2/Nav2)** and applied **NLP**
-- 📫 Reach me at **ycao800@gmail.com**
+- Currently building **multi-node IoT / smart-home gateway systems**
+-  Deepening my knowledge of **Embedded Linux, device drivers, and low-level system dev**
+- Focused on **Firmware Development, Embedded Linux, and IoT architecture**
+- Working daily with **STM32, ESP32, Raspberry Pi, and FreeRTOS**
+
 
 <br>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -75,64 +74,7 @@ that spans from bare-metal microcontrollers up to Embedded Linux gateways.
 </div>
 
 <br>
-
-## 🚀 Featured Projects
-
-### 🏠 SmartHome Gateway v2 — Multi-Node IoT System
-Graduation project: a Raspberry Pi 4B gateway coordinating ESP32 sensor/actuator nodes,
-with a synced local + cloud data pipeline.
-
-`Raspberry Pi 4B` `ESP32` `MQTT` `Firebase (Firestore + RTDB)` `Redis Pub/Sub` `SQLite (WAL)` `Flask REST API`
-
-- 📐 Full system architecture with 14 SVG flow diagrams
-- 🔄 Rewritten sync engine (`data_syncer.py`) with targeted bug fixes for access control, duplicate alerts, snapshots, and schedule sync
-- 💾 Rotating microSD storage layer with WAL-mode SQLite for reliability
-
----
-
-### 🌐 Multi-Node Smart Home System — Buildroot Linux Gateway & OTA
-A distributed IoT system using a Raspberry Pi 4 as an Embedded Linux gateway (Buildroot)
-with ESP32 edge nodes and centralized OTA updates.
-
-`Raspberry Pi 4` `Buildroot` `systemd` `ESP32` `MQTT` `SQLite` `Redis`
-
-- 🐧 Custom Embedded Linux gateway built with Buildroot
-- 📡 MQTT-based gateway ↔ node communication
-- 📶 Offline AP/STA networking
-- 🔁 Centralized OTA firmware updates
-
-[**View Project →**](https://github.com/NYCser/Centralized-Multi-Node-Smart-Home-With-Remote-OTA) · [**Buildroot Gateway →**](https://github.com/NYCser/Buildroot-Based-Embedded-Linux-IoT-Gateway)
-
----
-
-### 🤖 Autonomous Mobile Robot
-A differential-drive robot pairing an STM32 for real-time motor control with a
-Raspberry Pi for high-level navigation.
-
-`STM32F103` `Raspberry Pi 4` `ROS2` `Nav2` `PID` `UART` `RPLIDAR` `MPU6050`
-
-- ⚙️ Real-time motor control on STM32
-- 🎯 Dual PID wheel-speed control + odometry/kinematics
-- 🧭 ROS2/Nav2 navigation with RPLIDAR-based perception
-- 🔗 Custom STM32 ↔ Raspberry Pi UART protocol
-
-[**View Project →**](https://github.com/NYCser/Autonomous-Mobile-Robot-)
-
----
-
-### 🐟 Automatic Fish Feeder
-An STM32F103-based automatic aquarium feeder with RTC-scheduled feeding.
-
-`STM32F103` `C` `DS3231` `LCD`
-
-- ⏰ Scheduled + manual feeding, sensor monitoring, LCD display
-- 🧵 Non-blocking, state-machine firmware architecture
-
-[**View Project →**](https://github.com/NYCser/Auto_Feeding_Machine)
-
-<br>
-
-## 🧭 Current Focus
+## Current Focus
 
 ```text
                     Embedded C/C++
@@ -150,7 +92,7 @@ An STM32F103-based automatic aquarium feeder with RTC-scheduled feeding.
                          │
                          ▼
                 Communication Protocols
-              UART • SPI • I2C • CAN • MQTT
+              UART • SPI • I2C • MQTT
                          │
                          ▼
                   Embedded Linux
@@ -163,7 +105,7 @@ An STM32F103-based automatic aquarium feeder with RTC-scheduled feeding.
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -180,7 +122,7 @@ An STM32F103-based automatic aquarium feeder with RTC-scheduled feeding.
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NYCser)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycao800@gmail.com)
