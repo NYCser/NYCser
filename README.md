@@ -20,11 +20,7 @@
 
 ## 👋 About Me
 
-I'm an **Embedded Systems & IoT student** at HUTECH, building firmware and software
-that spans from bare-metal microcontrollers up to Embedded Linux gateways.
-
 - Currently building **multi-node IoT / smart-home gateway systems**
--  Deepening my knowledge of **Embedded Linux, device drivers, and low-level system dev**
 - Focused on **Firmware Development, Embedded Linux, and IoT architecture**
 - Working daily with **STM32, ESP32, Raspberry Pi, and FreeRTOS**
 
