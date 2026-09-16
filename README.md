@@ -67,34 +67,12 @@
 </div>
 
 <br>
+
 ## Current Focus
 
-```text
-                    Embedded C/C++
-                         │
-                         ▼
-              Microcontroller Firmware
-                         │
-                 ┌───────┴───────┐
-                 ▼               ▼
-              STM32            ESP32
-                 │               │
-                 └───────┬───────┘
-                         ▼
-                   FreeRTOS / Drivers
-                         │
-                         ▼
-                Communication Protocols
-              UART • SPI • I2C • MQTT
-                         │
-                         ▼
-                  Embedded Linux
-                         │
-                    Buildroot
-                         │
-                         ▼
-                    Edge / IoT Systems
-```
+<p align="center">
+  <img src="./assets/current-focus-diagram.svg" width="500">
+</p>
 
 <div align="center">
 
